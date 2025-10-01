@@ -40,7 +40,7 @@ A variety of visual elements were created to present key insights:
 
 
 
-![Visuals](images//visuals.png)
+![Visuals](images/visuals.png)
 
 
 
